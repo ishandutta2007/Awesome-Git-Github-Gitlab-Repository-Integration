@@ -70,7 +70,7 @@ The repository integration and version control sector exhibits a **highly concen
 
 *Below is a ranked list of standout open-source Git repository integration tools, self-hosted VCS platforms, and GitOps engines, sorted by GitHub stargazers count (descending).*
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 |:---|:---|:---|
 | **[nektos/act](https://github.com/nektos/act)** ⚡ | [![Stars](https://img.shields.io/github/stars/nektos/act?style=social&color=white)](https://github.com/nektos/act/stargazers) | Run your GitHub Actions locally via Docker containers for rapid pipeline testing and fast feedback loops without pushing commits. |
 | **[Gitea](https://github.com/go-gitea/gitea)** ☕ | [![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers) | Ultra-lightweight, self-hosted Git server written in Go with full support for webhooks, package registries, pull requests, and CI/CD integrations. |
@@ -94,7 +94,7 @@ Contributions are warmly welcomed! Help expand this ecosystem map by adding tool
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-tool`).
-3. ✏️ **Edit `README.md`**: Follow the established table schema (ensure pricing, free tier limits, and valuation or star counts are documented accurately).
+3. ✏️ **Edit `README.md`**: Follow the established table schema (ensure pricing, free tier limits, and valuation or Stars_Counts are documented accurately).
 4. 💾 **Commit your changes** (`git commit -m 'Add ToolName to Git repository integrations'`).
 5. 🚀 **Push to your branch** (`git push origin feature/add-new-tool`).
 6. 📬 **Submit a Pull Request** with a clear explanation of the integration value proposition.
@@ -124,3 +124,12 @@ Thank you for being part of the open-source and developer tools community! 🌟
 - This compilation is a **community-curated developer reference** — inclusion does not represent an endorsement or commercial partnership.
 - Repository integrations frequently require repository read/write access, deployment secrets, and webhook tokens; always enforce least-privilege principles, rotated access tokens, and comprehensive audit logs.
 - All trademarks, service marks, and trade names are the property of their respective owners. Product pricing, trial specifications, and market caps are subject to periodic change by their vendors.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Git-Github-Gitlab-Repository-Integration&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Git-Github-Gitlab-Repository-Integration_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Git-Github-Gitlab-Repository-Integration_growth.svg">
+  </picture>
+</a>
