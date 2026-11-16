@@ -1,6 +1,6 @@
 # Awesome-Git-Github-Gitlab-Repository-Integration
 
-# Top Git / GitHub / GitLab Repository Integration Ecosystem
+## Top Git / GitHub / GitLab Repository Integration Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Version Control Connectivity, CI/CD Pipeline Hooks & Self-Hosted Git Platforms*  
